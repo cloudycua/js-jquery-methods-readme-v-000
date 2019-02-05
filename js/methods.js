@@ -38,4 +38,4 @@ fancySchmancy()
 addText("HELLO")
 showDolphin()
 hideImage()
-fadeIt()
+
