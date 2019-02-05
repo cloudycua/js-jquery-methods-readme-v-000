@@ -33,3 +33,5 @@ function findItByClass(selector){
 function formValue(){
   return $('input:last').val()
 }
+
+fancySchmancy()
