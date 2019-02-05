@@ -33,11 +33,3 @@ function findItByClass(selector){
 function formValue(){
   return $('input:last').val()
 }
-
-fancySchmancy()
-addText("HELLO")
-showDolphin()
-hideImage()
-fadeIt()
-fadeItOut()
-findItByClass('a')
