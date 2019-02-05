@@ -37,3 +37,4 @@ function formValue(){
 fancySchmancy()
 addText("HELLO")
 showDolphin()
+hideImage()
