@@ -35,3 +35,4 @@ function formValue(){
 }
 
 fancySchmancy()
+addText()
