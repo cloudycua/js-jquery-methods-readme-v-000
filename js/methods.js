@@ -35,4 +35,4 @@ function formValue(){
 }
 
 fancySchmancy()
-addText()
+addText("HELLO")
